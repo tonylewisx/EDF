@@ -1,7 +1,7 @@
 import java.io.File;
 /*
  * Author: LJ Antoniazzi
- * version : 1.1
+ * version : 1.2
  * Comments:
  *   This programs decrypts or encrypts a file from EAB .
  *   It can be run on her as run->configuration with parameters 
